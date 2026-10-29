@@ -1,5 +1,7 @@
 # ⚡ VNC Turbo
 
+![VNC Turbo](screenshot.png)
+
 Finds what's making VNC slow on a Raspberry Pi 5 and switches it off — with one-click undo.
 
 ## Install
